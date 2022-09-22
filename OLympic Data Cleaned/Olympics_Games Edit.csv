@@ -1,0 +1,12 @@
+edition_id,edition,year,city,country_noc,start_date,end_date,competition_start_date,competition_end_date
+20,1980 Summer Olympics,1980,Moskva,URS,19/07/1980,03/08/1980,20/07/1980,03/08/1980
+21,1984 Summer Olympics,1984,Los Angeles,USA,28/07/1984,12/08/1984,06/07/1984,12/08/1984
+22,1988 Summer Olympics,1988,Seoul,KOR,17/09/1988,02/10/1988,17/09/1988,02/10/1988
+23,1992 Summer Olympics,1992,Barcelona,ESP,25/07/1992,09/08/1992,24/07/1992,09/08/1992
+24,1996 Summer Olympics,1996,Atlanta,USA,19/07/1996,04/08/1996,20/07/1996,04/08/1996
+25,2000 Summer Olympics,2000,Sydney,AUS,15/09/2000,01/10/2000,13/09/2000,01/10/2000
+26,2004 Summer Olympics,2004,Athina,GRE,13/08/2004,29/08/2004,11/08/2004,29/08/2004
+53,2008 Summer Olympics,2008,Beijing,CHN,08/08/2008,24/08/2008,06/08/2008,24/08/2008
+54,2012 Summer Olympics,2012,London,GBR,27/07/2012,12/08/2012,25/07/2012,12/08/2012
+59,2016 Summer Olympics,2016,Rio de Janeiro,BRA,05/08/2016,21/08/2016,03/08/2016,21/08/2016
+61,2020 Summer Olympics,2020,Tokyo,JPN,23/07/2021,23/07/2021,na,na
